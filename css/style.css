@@ -1,4 +1,8 @@
 /*Style for contact in header*/
+.header {
+    margin-top: 10px;
+}
+
 .contact-list
 {
     list-style-type: none;
